@@ -1,0 +1,42 @@
+
+* {
+    padding: 0;
+    margin: 0;
+     }
+  
+  html {
+    font-size: 62.5%;
+      }
+  
+  body {
+    overflow-x: hidden 100%; }
+
+nav {
+  background-color: #f6f3db;
+  
+}
+
+li{
+  text-align: end;
+  font-weight: bold;
+
+}
+
+#p {
+  font-size: 1.3rem;
+  margin: 5%;
+}
+
+.flaavii {
+  width: 18%;
+  margin-left: 0.2%;
+}
+
+#contact {
+  color: #252624;
+}
+
+#descr{ 
+  font-size: 1.3rem;
+
+}
